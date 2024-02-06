@@ -3,6 +3,14 @@ import type { Metadata } from 'next'
 import { Inter } from 'next/font/google'
 import "@radix-ui/themes/styles.css"
 import { Theme, ThemePanel } from "@radix-ui/themes"
+import { Providers } from '@/redux/provider'
+import Navber from '@/components/navbar/Navber'
+import AuthContext from '@/context/AuthContext'
+import { ToastContainer} from 'react-toastify';
+import DownPlayer from '@/components/downmusicPlayer/DownPlayer'
+import SearchResults from '@/components/navbar/searchBar/SearchResults'
+import Container from '@/components/downmusicPlayer/detailPlayer/Container'
+
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -16,12 +24,41 @@ export default function RootLayout({
 }: {
   children: React.ReactNode
 }) {
+
   return (
     <html lang="en">
       <body className={inter.className}>
-        <Theme appearance="dark" accentColor="blue" grayColor="sand" panelBackground="solid" radius="full" scaling="90%">
+        <Providers>
+          <AuthContext>
+        <Theme >
+          <Navber/>
+          <SearchResults/>
+          <ToastContainer
+      position="top-right"
+      autoClose={5000}
+      hideProgressBar={false}
+      newestOnTop={false}
+      closeOnClick
+      rtl={false}
+      pauseOnFocusLoss
+      draggable
+      pauseOnHover
+      theme="dark"
+      />
+          
           {children}
+       
         </Theme>
+        {/* detailPlayer */}
+
+        <Container/>
+      
+     {/* down songbar */}
+      <DownPlayer/>
+
+        </AuthContext>
+       
+        </Providers>
       </body>
     </html>
   )
