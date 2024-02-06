@@ -1,0 +1,46 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/chooseArtists/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/chooseArtists/page.css",
+      "static/chunks/app/chooseArtists/page.js"
+    ],
+    "/aiGeneration/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/aiGeneration/page.css",
+      "static/chunks/app/aiGeneration/page.js"
+    ],
+    "/likedsongs/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/likedsongs/[id]/page.css",
+      "static/chunks/app/likedsongs/[id]/page.js"
+    ],
+    "/playlist/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/playlist/[id]/page.css",
+      "static/chunks/app/playlist/[id]/page.js"
+    ],
+    "/searchResults/[id]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/searchResults/[id]/page.css",
+      "static/chunks/app/searchResults/[id]/page.js"
+    ]
+  }
+}
