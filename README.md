@@ -1,34 +1,22 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## SS
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+![Create Next App - Google Chrome 2_25_2024 10_10_06 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/a418de91-8454-4721-938f-84d0b5a48e7b)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![Create Next App - Google Chrome 2_25_2024 10_08_43 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/7db455f3-0c2a-4845-b0b1-086a5cd84876)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+![Create Next App - Google Chrome 2_25_2024 10_07_36 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/22dca7bf-8391-4091-8861-2808acbc4cc9)
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+![Create Next App - Google Chrome 2_25_2024 10_07_20 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/308cb537-c672-405a-8d7b-278ee1f8a2cb)
 
-## Learn More
+![Create Next App - Google Chrome 2_25_2024 10_05_44 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/9123dcc0-26da-4152-a911-0b02d7c764e6)
 
-To learn more about Next.js, take a look at the following resources:
+![Create Next App - Google Chrome 2_25_2024 10_05_51 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/62a4d21d-be59-4eb9-b8bb-640bbdd3c242)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Create Next App - Google Chrome 2_25_2024 10_04_42 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/c1ef552a-0577-4f1d-9719-40c06f370999)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+![Create Next App - Google Chrome 2_25_2024 10_09_23 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/c3fe804d-ab2b-49a2-a483-5ef00bb0afcb)
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Create Next App - Google Chrome 2_25_2024 10_09_19 AM](https://github.com/Mayukhy/Next-YTMusic/assets/107027766/3dd4f9ae-a1d2-40ac-b2cc-fe9d7f59d372)
